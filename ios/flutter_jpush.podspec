@@ -8,9 +8,9 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 using JPush sdk in Flutter.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/booy/flutter_jpush'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'Booy' => 'booy.dev@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
